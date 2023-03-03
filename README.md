@@ -1,2 +1,3 @@
 # music-player
-Music Player project
+
+A fun & challenging music player project :)
