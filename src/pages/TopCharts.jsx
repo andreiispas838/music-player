@@ -1,3 +1,3 @@
-const TopCharts = () => <div>TopCharts</div>;
+const TopCharts = () => <div>xd</div>;
 
 export default TopCharts;
