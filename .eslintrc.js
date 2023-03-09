@@ -13,7 +13,7 @@ module.exports = {
   },
   plugins: ['react'],
   rules: {
-    indent: ['warn', 4],
+    indent: ['warn', 2],
     'max-len': 0,
     'no-param-reassign': 0,
     'jsx-a11y/label-has-associated-control': 0,
