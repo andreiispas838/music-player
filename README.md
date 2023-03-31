@@ -6,6 +6,6 @@ Initially I was eager to replace Youtube Music with this Music Player as I simpl
 
 Another API that I used is the **_IP Geolocation API_** which I needed in order to fetch top melodies in the user's country.
 
-*** To be continued ... ***
+***To be continued ...***
 <!-- https://www.youtube.com/watch?v=I1cpb0tYV74&list=WL&index=15
 2:53:00 Deployment -->
